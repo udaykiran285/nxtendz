@@ -1,0 +1,23 @@
+.payment-successfull-button{
+    background-color:rgb(33, 131, 212);
+    color:white;
+    border: 0;
+    padding:10px;
+    border-radius: 10px;
+}
+.payment-image{
+    height:300px;
+    width:300px;
+}
+.payment-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    h4{
+        color:green;
+        font-weight: 600;
+        font-size: 2rem;
+    }
+}
