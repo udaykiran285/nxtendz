@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nxtendz/static/css/main.717a63e3.css",
+    "main.js": "/nxtendz/static/js/main.0cb19a49.js",
+    "index.html": "/nxtendz/index.html",
+    "main.717a63e3.css.map": "/nxtendz/static/css/main.717a63e3.css.map",
+    "main.0cb19a49.js.map": "/nxtendz/static/js/main.0cb19a49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.717a63e3.css",
+    "static/js/main.0cb19a49.js"
+  ]
+}
